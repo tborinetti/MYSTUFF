@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "5a90f0b3974b9aa4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a13eca5aaa7f8e08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "719baa74fac51f58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Microsoft/Win32/Message Handling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Message Handling"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "491830ac87de2684",
+    "type": "split",
+    "children": [
+      {
+        "id": "98bf7d3ff84173cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a5215dc43a3f3ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "089d90f2d67d91a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3e59df06e1331fb1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f6911a0862a4c6ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "deb1cf80985ff378",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5f2582cd5b8e00c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C Programming/Pointers.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Pointers"
+            }
+          },
+          {
+            "id": "e76b7ca0d81e7fdb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C Programming/Pointers.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Pointers"
+            }
+          },
+          {
+            "id": "00c9d3d53545a849",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "92af009106653f1f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C Programming/Pointers.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Pointers"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "719baa74fac51f58",
+  "lastOpenFiles": [
+    "Microsoft/Win32/Data Types.md",
+    "Microsoft/Win32/Message Handling.md",
+    "Microsoft/Win32/Message Loop.md",
+    "Microsoft/Win32/Sample Programs.md",
+    "Microsoft/Win32/WinSock.md",
+    "C Programming/Pointers.md",
+    "C Programming/Strings.md",
+    "C Programming/NT Project/Thoughts.md",
+    "C Programming/NT Project",
+    "Learn more.md",
+    "Microsoft/Win32",
+    "Welcome.md",
+    "Microsoft",
+    "C Programming"
+  ]
+}
