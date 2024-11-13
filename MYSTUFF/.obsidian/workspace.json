@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microsoft/MS-900.md",
+                "file": "Programming/C Programming/NT Project/Thoughts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MS-900"
+              "title": "Thoughts"
             }
           }
         ]
@@ -127,7 +127,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -164,22 +164,24 @@
   },
   "active": "719baa74fac51f58",
   "lastOpenFiles": [
-    "Microsoft/Win32/WinSock.md",
-    "Microsoft/Win32/Sample Programs.md",
+    "Programming/Markdown.md",
+    "Microsoft/MS-900.md",
     "Microsoft/Win32/Message Loop.md",
+    "Microsoft/Win32/Sample Programs.md",
+    "Microsoft/Win32/WinSock.md",
+    "Programming/C Programming/NT Project/Thoughts.md",
+    "Programming",
     "Microsoft/Win32/Message Handling.md",
     "Microsoft/Win32/Data Types.md",
-    "C Programming/NT Project/Thoughts.md",
-    "Microsoft/MS-900.md",
     "Microsoft/MS900/Untitled.md",
     "Microsoft/MS900",
     "C Programming/Pointers.md",
     "C Programming/Strings.md",
-    "C Programming/NT Project",
+    "Programming/C Programming/NT Project",
     "Learn more.md",
     "Microsoft/Win32",
     "Welcome.md",
     "Microsoft",
-    "C Programming"
+    "Programming/C Programming"
   ]
 }
