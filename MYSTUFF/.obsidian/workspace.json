@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microsoft/Win32/Message Handling.md",
+                "file": "Electronics/Electrical Charge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Message Handling"
+              "title": "Electrical Charge"
             }
           }
         ]
@@ -164,8 +164,11 @@
   },
   "active": "719baa74fac51f58",
   "lastOpenFiles": [
-    "Microsoft/Win32/Data Types.md",
+    "Pasted image 20241202220757.png",
     "Microsoft/Win32/Message Handling.md",
+    "Electronics/Electrical Charge.md",
+    "Electronics",
+    "Microsoft/Win32/Data Types.md",
     "Microsoft/Win32/Message Loop.md",
     "Microsoft/Win32/Sample Programs.md",
     "Microsoft/Win32/WinSock.md",
